@@ -10,9 +10,7 @@
     style >
     h1, h2, p {
         text - align: center;
-    }
-
-    <
+    } <
     /style> <
     /head> <
     body >
