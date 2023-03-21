@@ -1,12 +1,11 @@
-const reverseSeq = n => {
-    let arr = [];
-    let i = 0;
-    for (n; n >= 0; n--) {
-        arr[i] = n;
-        i++;
+function isLess(a, b) {
+    // Only change code below this line
+    if (a < b) {
+        return true;
+    } else {
+        return false;
     }
-    console.log(arr);
-};
+    // Only change code above this line
+}
 
-
-reverseSeq(4);
+isLess(10, 15);
