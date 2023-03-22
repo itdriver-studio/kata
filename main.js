@@ -1,5 +1,7 @@
 body {
-    background - color: burlywood;
+    /*
+    background-color: burlywood;
+    */
 }
 
 h1, h2, p {
