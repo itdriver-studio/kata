@@ -1,9 +1,10 @@
-const myDog = {
-    // Only change code below this line
-    legs: 4,
-    name: "Jack",
-    tails: 1,
-    friends: 4,
-
-    // Only change code above this line
+// Setup
+const testObj = {
+    "an entree": "hamburger",
+    "my side": "veggies",
+    "the drink": "water"
 };
+
+// Only change code below this line
+const entreeValue = testObj; // Change this line
+const drinkValue = testObj; // Change this line
