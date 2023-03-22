@@ -6,8 +6,9 @@
     <
     meta charset = "utf-8" / >
     <
-    title > Cafe Menu < /title>
-
+    title > Cafe Menu < /title> <
+    link href = "styles.css"
+rel = "stylesheet" / >
     <
     /head> <
     body >
