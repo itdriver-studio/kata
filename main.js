@@ -1,30 +1,25 @@
-// Setup
-function phoneticLookup(val) {
-    let result = "";
+< !DOCTYPE html >
+    <
+    html lang = "en" >
+    <
+    head >
+    <
+    meta charset = "utf-8" / >
+    <
+    title > Cafe Menu < /title>
 
-    // Only change code below this line
-    switch (val) {
-        case "alpha":
-            result = "Adams";
-            break;
-        case "bravo":
-            result = "Boston";
-            break;
-        case "charlie":
-            result = "Chicago";
-            break;
-        case "delta":
-            result = "Denver";
-            break;
-        case "echo":
-            result = "Easy";
-            break;
-        case "foxtrot":
-            result = "Frank";
-    }
-
-    // Only change code above this line
-    return result;
-}
-
-phoneticLookup("charlie");
+    <
+    /head> <
+    body >
+    <
+    main >
+    <
+    h1 > CAMPER CAFE < /h1> <
+    p > Est.2020 < /p> <
+    section >
+    <
+    h2 > Coffee < /h2> <
+    /section> <
+    /main> <
+    /body> <
+    /html>
